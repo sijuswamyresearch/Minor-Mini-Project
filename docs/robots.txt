@@ -1,1 +1,1 @@
-Sitemap: https://<your-github-username>.github.io/<repository-name>/sitemap.xml
+Sitemap: https://sijuswamyresearch.github.io/Minor-Mini-Project/sitemap.xml

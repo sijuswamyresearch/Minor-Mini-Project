@@ -5,7 +5,7 @@ project:
 website:
   title: "20MAD481/482: Mini Project"
   description: "Computational Mathematics for Engineers"
-  site-url: "https://<your-github-username>.github.io/<repository-name>"
+  site-url: "https://sijuswamyresearch.github.io/Minor-Mini-Project/"
   
   navbar:
     background: "#1a365d"
@@ -20,7 +20,7 @@ website:
         file: projects.qmd
     right:
       - icon: github
-        href: https://github.com/<your-github-username>/<repository-name>
+        href: https://github.com/sijuswamyresearch/Minor-Mini-Project
         aria-label: GitHub
 
 format:
