@@ -1,0 +1,41 @@
+---
+title: "Syllabus & Evaluation Structure"
+---
+
+## 1. Administrative Committees
+
+The evaluation of the mini-project is strictly governed by two designated committees to ensure fairness and adherence to academic standards:
+
+* **Internal Project Evaluation Committee (PEC):** Responsible for Continuous Internal Evaluation (CIE). Composed of the Head of Department (or a senior faculty member as Chairman), the Mini Project Coordinator, and the respective Project Supervisor.
+* **End Semester Examination (ESE) Committee:** Responsible for the final defense. Composed of the HoD/Chairman, an **External Expert** (from Industry, Research, or Academia), and the Project Coordinator.
+
+---
+
+## 2. Complete Marking Scheme (150 Marks Total)
+
+Students must score a minimum of **75 marks** overall to pass the mini-project. The evaluation is distributed as follows:
+
+| Mode | Evaluator | Evaluation Component | Marks |
+| :--- | :--- | :--- | :---: |
+| **CIE (75)** | Project Supervisor | Project Scheduling (5), Literature Survey (5), Project Diary/Log (10), Completion/Demo (5) | 25 |
+| | PEC | **Interim Evaluation:** Technical Content (7.5) & Presentation (7.5) | 15 |
+| | PEC | **Final Evaluation:** Technical Content (7) & Presentation (8) | 15 |
+| | PEC | **Mini Project Report:** Tech Content (6), Quality (6), Formats (4), References (4) | 20 |
+| **ESE (75)** | ESE Committee | Technical Content (Evaluated alongside external expert) | 60 |
+| | ESE Committee | Presentation and Oral Defense | 15 |
+
+---
+
+## 3. Mandatory Report Structure
+
+The final project report **must** include the following sections exactly as prescribed by the syllabus:
+
+1. Executive Summary
+2. Introduction
+3. Methodology
+4. Results
+5. Discussion
+6. Conclusion
+7. Recommendations
+
+> **Note:** Reports must be explicitly approved by the project supervisor prior to the Final PEC Review, and must be certified by the HoD prior to the End Semester Examination.

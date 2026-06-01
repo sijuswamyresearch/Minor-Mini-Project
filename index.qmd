@@ -1,0 +1,30 @@
+---
+title: "Computational Mathematics for Engineers"
+subtitle: "B.Tech Minor - 7th Semester CSE Mini Project"
+author: "Department of Mathematics"
+date: "June 2026"
+---
+
+## Welcome to the Mini Project Portal
+
+This platform serves as the central hub for the **20MAD481/482 Mini Project**. Here, you will find the official syllabus mandates, evaluation rubrics, computational project themes, and the standardized formatting templates required for your final submissions.
+
+### Course Objective
+The goal of this course is to bridge the gap between abstract mathematical theory and applied computer science. You will move beyond utilizing "black-box" libraries to computationally model, optimize, and simulate complex systems using linear algebra, calculus, and discrete mathematics.
+
+---
+
+### Quick Links & Next Steps
+
+If you are just starting the semester, please follow these steps in order:
+
+1. **[Review the Evaluation Rubric](syllabus.qmd):** Understand exactly how the 150 marks are distributed across the Continuous Internal Evaluation (CIE) and the End Semester Examination (ESE).
+2. **[Read the Implementation Guidelines](guidelines.qmd):** Review the strict 14-week Work Breakdown Structure (WBS) and understand the requirements for your weekly logbook sign-offs.
+3. **[Select a Project Theme](projects.qmd):** Browse the 12 curated computational analytics and machine learning themes.
+4. **Download the LaTeX Template:** Access the official department template for your final report drafting.
+   * [Download `template.tex`](assets/latex/template.tex)
+
+---
+
+### Institutional Details
+**Saintgits College of Engineering (Autonomous)** *Department of Mathematics*, Kottayam, Kerala

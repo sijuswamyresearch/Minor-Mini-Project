@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus & Evaluation Structure",
+    "section": "",
+    "text": "The evaluation of the mini-project is strictly governed by two designated committees to ensure fairness and adherence to academic standards:\n\nInternal Project Evaluation Committee (PEC): Responsible for Continuous Internal Evaluation (CIE). Composed of the Head of Department (or a senior faculty member as Chairman), the Mini Project Coordinator, and the respective Project Supervisor.\nEnd Semester Examination (ESE) Committee: Responsible for the final defense. Composed of the HoD/Chairman, an External Expert (from Industry, Research, or Academia), and the Project Coordinator."
+  },
+  {
+    "objectID": "syllabus.html#administrative-committees",
+    "href": "syllabus.html#administrative-committees",
+    "title": "Syllabus & Evaluation Structure",
+    "section": "",
+    "text": "The evaluation of the mini-project is strictly governed by two designated committees to ensure fairness and adherence to academic standards:\n\nInternal Project Evaluation Committee (PEC): Responsible for Continuous Internal Evaluation (CIE). Composed of the Head of Department (or a senior faculty member as Chairman), the Mini Project Coordinator, and the respective Project Supervisor.\nEnd Semester Examination (ESE) Committee: Responsible for the final defense. Composed of the HoD/Chairman, an External Expert (from Industry, Research, or Academia), and the Project Coordinator."
+  },
+  {
+    "objectID": "syllabus.html#complete-marking-scheme-150-marks-total",
+    "href": "syllabus.html#complete-marking-scheme-150-marks-total",
+    "title": "Syllabus & Evaluation Structure",
+    "section": "2. Complete Marking Scheme (150 Marks Total)",
+    "text": "2. Complete Marking Scheme (150 Marks Total)\nStudents must score a minimum of 75 marks overall to pass the mini-project. The evaluation is distributed as follows:\n\n\n\n\n\n\n\n\n\nMode\nEvaluator\nEvaluation Component\nMarks\n\n\n\n\nCIE (75)\nProject Supervisor\nProject Scheduling (5), Literature Survey (5), Project Diary/Log (10), Completion/Demo (5)\n25\n\n\n\nPEC\nInterim Evaluation: Technical Content (7.5) & Presentation (7.5)\n15\n\n\n\nPEC\nFinal Evaluation: Technical Content (7) & Presentation (8)\n15\n\n\n\nPEC\nMini Project Report: Tech Content (6), Quality (6), Formats (4), References (4)\n20\n\n\nESE (75)\nESE Committee\nTechnical Content (Evaluated alongside external expert)\n60\n\n\n\nESE Committee\nPresentation and Oral Defense\n15"
+  },
+  {
+    "objectID": "syllabus.html#mandatory-report-structure",
+    "href": "syllabus.html#mandatory-report-structure",
+    "title": "Syllabus & Evaluation Structure",
+    "section": "3. Mandatory Report Structure",
+    "text": "3. Mandatory Report Structure\nThe final project report must include the following sections exactly as prescribed by the syllabus:\n\nExecutive Summary\nIntroduction\nMethodology\nResults\nDiscussion\nConclusion\nRecommendations\n\n\nNote: Reports must be explicitly approved by the project supervisor prior to the Final PEC Review, and must be certified by the HoD prior to the End Semester Examination."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Computational Mathematics for Engineers",
+    "section": "",
+    "text": "This platform serves as the central hub for the 20MAD481/482 Mini Project. Here, you will find the official syllabus mandates, evaluation rubrics, computational project themes, and the standardized formatting templates required for your final submissions.\n\n\nThe goal of this course is to bridge the gap between abstract mathematical theory and applied computer science. You will move beyond utilizing “black-box” libraries to computationally model, optimize, and simulate complex systems using linear algebra, calculus, and discrete mathematics.\n\n\n\n\nIf you are just starting the semester, please follow these steps in order:\n\nReview the Evaluation Rubric: Understand exactly how the 150 marks are distributed across the Continuous Internal Evaluation (CIE) and the End Semester Examination (ESE).\nRead the Implementation Guidelines: Review the strict 14-week Work Breakdown Structure (WBS) and understand the requirements for your weekly logbook sign-offs.\nSelect a Project Theme: Browse the 12 curated computational analytics and machine learning themes.\nDownload the LaTeX Template: Access the official department template for your final report drafting.\n\nDownload template.tex\n\n\n\n\n\n\nSaintgits College of Engineering (Autonomous) Department of Mathematics, Kottayam, Kerala"
+  },
+  {
+    "objectID": "index.html#welcome-to-the-mini-project-portal",
+    "href": "index.html#welcome-to-the-mini-project-portal",
+    "title": "Computational Mathematics for Engineers",
+    "section": "",
+    "text": "This platform serves as the central hub for the 20MAD481/482 Mini Project. Here, you will find the official syllabus mandates, evaluation rubrics, computational project themes, and the standardized formatting templates required for your final submissions.\n\n\nThe goal of this course is to bridge the gap between abstract mathematical theory and applied computer science. You will move beyond utilizing “black-box” libraries to computationally model, optimize, and simulate complex systems using linear algebra, calculus, and discrete mathematics.\n\n\n\n\nIf you are just starting the semester, please follow these steps in order:\n\nReview the Evaluation Rubric: Understand exactly how the 150 marks are distributed across the Continuous Internal Evaluation (CIE) and the End Semester Examination (ESE).\nRead the Implementation Guidelines: Review the strict 14-week Work Breakdown Structure (WBS) and understand the requirements for your weekly logbook sign-offs.\nSelect a Project Theme: Browse the 12 curated computational analytics and machine learning themes.\nDownload the LaTeX Template: Access the official department template for your final report drafting.\n\nDownload template.tex\n\n\n\n\n\n\nSaintgits College of Engineering (Autonomous) Department of Mathematics, Kottayam, Kerala"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "guidelines.html",
+    "href": "guidelines.html",
+    "title": "Implementation Guidelines",
+    "section": "",
+    "text": "Given that 7th-semester CSE students are balancing major projects and other minor courses, this computational mathematics project is structured to maximize your existing programming skills while satisfying rigorous mathematical evaluation criteria."
+  },
+  {
+    "objectID": "guidelines.html#strategic-directives-for-supervisors",
+    "href": "guidelines.html#strategic-directives-for-supervisors",
+    "title": "Implementation Guidelines",
+    "section": "Strategic Directives for Supervisors",
+    "text": "Strategic Directives for Supervisors\n\nLogbook Discipline (10 Marks): The CIE allocates 10 marks to the daily/weekly activity diary. To ensure authenticity, establish a strict 5–10 minute window during the weekly 4-hour project block to review and sign these diaries.\nLive Code Verification (5 Marks): For the final 5 marks under the Supervisor’s purview (“Completion of the project”), students must execute their computational models live to prove that the mathematical objectives were met.\nTemplate Enforcement: Mandate the use of the standardized LaTeX template to effortlessly secure the 8 marks awarded by the PEC for formatting and referencing."
+  },
+  {
+    "objectID": "guidelines.html#directives-for-students",
+    "href": "guidelines.html#directives-for-students",
+    "title": "Implementation Guidelines",
+    "section": "Directives for Students",
+    "text": "Directives for Students\n\nTechnology Stack: Utilize familiar Python data science libraries (NumPy, Matplotlib, SciPy) to minimize coding friction and keep the focus strictly on the underlying computational mathematics.\nInterim Focus: The Week 7 Interim Review strictly targets the mathematical formulation and preliminary algorithmic setup. Limit your presentations to 5–7 slides.\nPost-Review Modifications: You have exactly five working days following the Final PEC Evaluation (Week 13) to incorporate suggested modifications before final HoD certification."
+  },
+  {
+    "objectID": "guidelines.html#sample-work-breakdown-structure-wbs",
+    "href": "guidelines.html#sample-work-breakdown-structure-wbs",
+    "title": "Implementation Guidelines",
+    "section": "Sample Work Breakdown Structure (WBS)",
+    "text": "Sample Work Breakdown Structure (WBS)\nBelow is a precise, 14-week execution map (using the Financial Risk Analytics project as a baseline). Ensure your group’s WBS follows a similar trajectory.\n\n\n\n\n\n\n\n\nPhase & Timeline\nTask Description & Math Focus\nEvaluation Milestone\n\n\n\n\nPhase 1 (Weeks 1-2)\nDefine dataset. Set up Python/NumPy environments.\nGroup formation & Dataset lockdown.\n\n\nPhase 2 (Week 3)\nFormulate objective function mathematically. Submit WBS.\nProposal Submission (5 Marks for Scheduling).\n\n\nPhase 3 (Weeks 4-6)\nConstruct mathematical matrices and vectors natively in Python.\nCIE Begins (Supervisor weekly diary sign-offs).\n\n\nPhase 4 (Week 7)\nCompile the mathematical framework into a short presentation.\nInterim PEC Review (15 Marks).\n\n\nPhase 5 (Weeks 8-11)\nImplement algorithmic optimization. Compute and plot results.\nLive Code Verification (5 Marks for Completion).\n\n\nPhase 6 (Weeks 12-13)\nDocument proofs and interpret data. Draft LaTeX report.\nFinal PEC Review (15 Marks) & Report Eval (20 Marks).\n\n\nPhase 7 (Week 14)\nIncorporate PEC modifications. Prepare final oral defense.\nEnd Semester Examination (75 Marks)."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Curated Project Themes",
+    "section": "",
+    "text": "The following themes are designed to provide a high level of experiential learning in Machine Learning and Data Analytics. You are expected to engage heavily with the underlying computational mathematics (matrices, optimization, calculus) rather than relying exclusively on pre-built, “black-box” libraries.\n\n1. Financial Risk Analytics & Portfolio Optimization\n\nNarrative: Model risk vs. reward by calculating how financial assets interact, determining optimal wealth distribution to maximize return for a given risk level.\nMath Focus: Covariance/correlation matrices, expected value vectors, quadratic programming (Markowitz Efficient Frontier).\nDataset: Stock Portfolio Optimization (Kaggle)\n\n\n\n2. Chaotic System Modeling & Weather Forecasting\n\nNarrative: Predict atmospheric conditions by modeling highly chaotic physical systems with significant micro-variations and non-linear patterns.\nMath Focus: Statistical normalization, auto-correlation functions, time-step gradient calculations for recurrent networks.\nDataset: Weather Long-term Time Series (Kaggle)\n\n\n\n3. Multi-Criteria Supply Chain Logistics\n\nNarrative: Solve complex operational routing puzzles, assigning shipping pathways while managing conflicting costs and capacity constraints.\nMath Focus: Deterministic objective functions, Linear/Integer Programming matrix formulations, constraint-satisfaction inequalities.\nDataset: Supply Chain Logistics Problem (Kaggle)\n\n\n\n4. Recommender Systems via Matrix Factorization\n\nNarrative: Build a collaborative filtering engine uncovering hidden patterns in user preferences by decomposing highly sparse preference matrices.\nMath Focus: Singular Value Decomposition (SVD), Alternating Least Squares (ALS) optimization, iterative matrix approximation errors.\nDataset: Book Recommendation Dataset (Kaggle)\n\n\n\n5. Fraud Detection in Imbalanced Data\n\nNarrative: Identify rare anomalies within millions of normal operations, requiring the handling of severe statistical skewness.\nMath Focus: Principal Component Analysis (PCA), Mahalanobis distance metric calculation, AUPRC gradient computation.\nDataset: Credit Card Fraud Detection (Kaggle)\n\n\n\n6. Unsupervised Statistical Topic Modeling\n\nNarrative: Process massive text corpora to mathematically uncover latent themes without human labeling.\nMath Focus: TF-IDF sparse vector space construction, Dirichlet distributions, Gibbs Sampling for LDA.\nDataset: TripAdvisor Hotel Reviews (Kaggle)\n\n\n\n7. Predictive Maintenance in Industrial IoT\n\nNarrative: Analyze continuous stream telemetry from factory sensors to calculate the exact mathematical probability of machine degradation.\nMath Focus: Weibull distribution estimation, probability density function survival modeling, multivariate regression.\nDataset: AI4I 2020 Predictive Maintenance (Kaggle)\n\n\n\n8. Customer Segmentation via High-Dimensional Clustering\n\nNarrative: Discover distinct consumer purchasing archetypes within raw behavioral logs to execute precise targeted interventions.\nMath Focus: Voronoi iteration optimization (K-Means), Expectation-Maximization (EM) for Gaussian Mixture Models, Elbow Method derivatives.\nDataset: E-Commerce Customer Behavior (Kaggle)\n\n\n\n9. Stochastic Modeling for Traffic Flow Simulation\n\nNarrative: Simulate vehicle arrival behaviors and bottlenecks to optimize traffic light timing parameters.\nMath Focus: Poisson processes, continuous-time Markov chains, steady-state probabilities in Queuing Models.\nDataset: Metro Interstate Traffic Volume (Kaggle)\n\n\n\n10. High-Dimensional Gene Expression Analysis\n\nNarrative: Map out thousands of cellular gene vectors simultaneously to categorize biological mutations.\nMath Focus: High-dimensional covariance matrix analysis, dominant Eigenvalues/vectors, non-linear dimensionality reduction.\nDataset: Cancer Genomics Gene Expression (Kaggle)\n\n\n\n11. Grid-Scale Energy Consumption Forecasting\n\nNarrative: Model regional infrastructure energy demands over several years to minimize grid power overproduction waste.\nMath Focus: Linear difference equations, Maximum Likelihood Estimation (MLE), Augmented Dickey-Fuller stationarity tests.\nDataset: PJM Hourly Energy Consumption (Kaggle)\n\n\n\n12. Markovian Decision Making for Algorithmic Trading\n\nNarrative: Build a dynamic computational agent that learns optimal sequences of decisions based on changing financial environments.\nMath Focus: Markov Decision Processes (MDP), Bellman Optimality equations, iterative value-iteration convergence.\nDataset: Crypto Historical Data (Kaggle)"
+  }
+]

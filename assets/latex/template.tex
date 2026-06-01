@@ -1,0 +1,123 @@
+\documentclass[12pt, a4paper]{report}
+
+% ----- Essential Packages -----
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1.2in}
+\usepackage{amsmath, amssymb, amsfonts} % For heavy mathematical typesetting
+\usepackage{graphicx}                   % For plotting results and the institution logo
+\usepackage{booktabs}                   % For professional tables
+\usepackage{hyperref}                   % For clickable links and references
+\usepackage{cite}                       % For BibTeX citation management
+\usepackage{setspace}
+\setspace{1.5}                          % 1.5 line spacing for academic readability
+
+\begin{document}
+
+% --------------------------------------------------------------
+% TITLE PAGE
+% --------------------------------------------------------------
+\begin{titlepage}
+    \centering
+    \vspace*{1cm}
+    
+    {\Large \textbf{MINI PROJECT REPORT (20MAD481/482)}}\\[1cm]
+    
+    {\huge \textbf{[Insert Project Title Here]}}\\[1.5cm]
+    
+    {\large Submitted by:}\\[0.5cm]
+    \textbf{Student 1 Name (Register No.)}\\
+    \textbf{Student 2 Name (Register No.)}\\
+    \textbf{Student 3 Name (Register No.)}\\
+    \textbf{Student 4 Name (Register No.)}\\[1.5cm]
+    
+    {\large \textit{In partial fulfillment of the requirements for the award of the degree of}}\\[0.5cm]
+    {\Large \textbf{Bachelor of Technology in Computer Science and Engineering}}\\[0.5cm]
+    {\large \textit{with Minor in Computational Mathematics for Engineers}}\\[1.5cm]
+    
+    % Institutional Logo
+    % Ensure a file named 'logo.png' or 'logo.jpg' is in the same folder as this .tex file
+    \includegraphics[width=0.3\textwidth]{logo.jpg}\\[0.5cm]
+    
+    \textbf{DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING}\\[0.2cm]
+    \textbf{SAINTGITS COLLEGE OF ENGINEERING (AUTONOMOUS)}\\[0.2cm]
+    \textbf{KOTTAYAM, KERALA}\\[1cm]
+    
+    {\large \textbf{November 2026}}
+\end{titlepage}
+
+% --------------------------------------------------------------
+% FRONT MATTER
+% --------------------------------------------------------------
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+
+% --------------------------------------------------------------
+% MAIN BODY (Strict adherence to Syllabus Sections)
+% --------------------------------------------------------------
+\pagenumbering{arabic}
+
+\chapter*{1. Executive Summary}
+\addcontentsline{toc}{chapter}{1. Executive Summary}
+[Provide a high-level overview of the entire computational project. Summarize the objective, the mathematical methodology used, and highlight the primary findings.]
+
+\chapter*{2. Introduction}
+\addcontentsline{toc}{chapter}{2. Introduction}
+\section*{2.1 Background}
+[Introduce the concept and the necessity of computational mathematics in this domain.]
+
+\section*{2.2 Problem Statement}
+[Define the specific computational problem you are solving.]
+
+\section*{2.3 Objectives}
+[Clear, bulleted list of technical and mathematical goals.]
+
+\chapter*{3. Methodology}
+\addcontentsline{toc}{chapter}{3. Methodology}
+[This section details the core mathematical models and computational algorithms. Cite your sources, for example: "We utilized optimization techniques as defined by Markowitz \cite{markowitz} and implemented them via SciPy \cite{scipy}."]
+
+\section*{3.1 Data Preprocessing}
+[Detail how raw data was transformed mathematically.]
+
+\section*{3.2 The Mathematical Model}
+[Use proper LaTeX environments for your equations.]
+\begin{equation}
+    E(R_p) = \mathbf{w}^T \boldsymbol{\mu}
+\end{equation}
+
+\section*{3.3 Computational Tools}
+[Detail the use of Python, NumPy, PyTorch, etc.]
+
+\chapter*{4. Results}
+\addcontentsline{toc}{chapter}{4. Results}
+[Present the analyzed data using charts, graphs, or statistical outputs. Use the figure environment to include your data visualizations.]
+
+% Example of how to include a generated plot
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.8\textwidth]{results_plot.png}
+%     \caption{Computational Simulation Results}
+% \end{figure}
+
+\chapter*{5. Discussion}
+\addcontentsline{toc}{chapter}{5. Discussion}
+[Interpret the computational results. Discuss how the mathematical optimization affected the outcome.]
+
+\chapter*{6. Conclusion}
+\addcontentsline{toc}{chapter}{6. Conclusion}
+[A final summary of the project's success in directly addressing the initial objectives.]
+
+\chapter*{7. Recommendations}
+\addcontentsline{toc}{chapter}{7. Recommendations}
+[Discuss the future scope of the project or alternative mathematical frameworks that could be applied.]
+
+% --------------------------------------------------------------
+% REFERENCES
+% --------------------------------------------------------------
+\newpage
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+
+\end{document}

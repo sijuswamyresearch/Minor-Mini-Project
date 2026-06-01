@@ -1,0 +1,27 @@
+/* Make the top navigation bar match a professional academic navy blue */
+/* Ensure heavy mathematical tables do not stretch awkwardly */
+table {
+  width: 100%;
+  table-layout: auto;
+}
+
+th {
+  background-color: #f7fafc;
+  color: #2b6cb0;
+  font-weight: 700;
+}
+
+/* Add a subtle visual distinction to blockquotes / notes */
+blockquote {
+  border-left: 4px solid #3182ce;
+  background-color: #ebf8ff;
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 0 5px 5px 0;
+  color: #2c5282;
+}
+
+/* Slightly increase line height for dense mathematical reading */
+p {
+  line-height: 1.7;
+}

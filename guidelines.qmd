@@ -1,0 +1,33 @@
+---
+title: "Implementation Guidelines"
+---
+
+Given that 7th-semester CSE students are balancing major projects and other minor courses, this computational mathematics project is structured to maximize your existing programming skills while satisfying rigorous mathematical evaluation criteria.
+
+## Strategic Directives for Supervisors
+
+* **Logbook Discipline (10 Marks):** The CIE allocates 10 marks to the daily/weekly activity diary. To ensure authenticity, establish a strict 5–10 minute window during the weekly 4-hour project block to review and sign these diaries.
+* **Live Code Verification (5 Marks):** For the final 5 marks under the Supervisor's purview ("Completion of the project"), students must execute their computational models live to prove that the mathematical objectives were met.
+* **Template Enforcement:** Mandate the use of the standardized LaTeX template to effortlessly secure the 8 marks awarded by the PEC for formatting and referencing.
+
+## Directives for Students
+
+* **Technology Stack:** Utilize familiar Python data science libraries (NumPy, Matplotlib, SciPy) to minimize coding friction and keep the focus strictly on the underlying computational mathematics.
+* **Interim Focus:** The Week 7 Interim Review strictly targets the mathematical formulation and preliminary algorithmic setup. Limit your presentations to 5–7 slides.
+* **Post-Review Modifications:** You have exactly **five working days** following the Final PEC Evaluation (Week 13) to incorporate suggested modifications before final HoD certification.
+
+---
+
+## Sample Work Breakdown Structure (WBS)
+
+Below is a precise, 14-week execution map (using the Financial Risk Analytics project as a baseline). Ensure your group's WBS follows a similar trajectory.
+
+| Phase & Timeline | Task Description & Math Focus | Evaluation Milestone |
+| :--- | :--- | :--- |
+| **Phase 1 (Weeks 1-2)** | Define dataset. Set up Python/NumPy environments. | Group formation & Dataset lockdown. |
+| **Phase 2 (Week 3)** | Formulate objective function mathematically. Submit WBS. | **Proposal Submission** (5 Marks for Scheduling). |
+| **Phase 3 (Weeks 4-6)** | Construct mathematical matrices and vectors natively in Python. | **CIE Begins** (Supervisor weekly diary sign-offs). |
+| **Phase 4 (Week 7)** | Compile the mathematical framework into a short presentation. | **Interim PEC Review (15 Marks).** |
+| **Phase 5 (Weeks 8-11)** | Implement algorithmic optimization. Compute and plot results. | **Live Code Verification** (5 Marks for Completion). |
+| **Phase 6 (Weeks 12-13)** | Document proofs and interpret data. Draft LaTeX report. | **Final PEC Review (15 Marks)** & Report Eval **(20 Marks)**. |
+| **Phase 7 (Week 14)** | Incorporate PEC modifications. Prepare final oral defense. | **End Semester Examination (75 Marks).** |

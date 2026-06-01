@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "20MAD481/482: Mini Project"
+  description: "Computational Mathematics for Engineers"
+  site-url: "https://<your-github-username>.github.io/<repository-name>"
+  
+  navbar:
+    background: "#1a365d"
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Syllabus & Evaluation"
+        file: syllabus.qmd
+      - text: "Implementation Guide"
+        file: guidelines.qmd
+      - text: "Project Themes"
+        file: projects.qmd
+    right:
+      - icon: github
+        href: https://github.com/<your-github-username>/<repository-name>
+        aria-label: GitHub
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: assets/style.css
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    number-sections: false
+    code-fold: true          # Allows students to expand/collapse Python code
+    code-tools: False
+    math: mathjax            # Native, perfect rendering of LaTeX equations
+
+execute:
+  echo: true                 # Shows Python code by default
+  warning: false             # Hides build warnings
